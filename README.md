@@ -1,2 +1,2 @@
 # Exoskeleton-Glove
-A exoskeleton hand connected to an Arduino glove
+An exoskeleton hand connected to an Arduino glove
