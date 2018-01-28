@@ -10,7 +10,7 @@ SEMAINE 1 :
 • Choix du projet 
 Boule de billard interactive
 Harpe Laser
-Main exosquelette <-----
+→Main exosquelette
 
 • Démarche
 Réalisation de premier schéma sur brouillon 
