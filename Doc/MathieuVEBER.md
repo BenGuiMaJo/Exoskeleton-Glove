@@ -39,3 +39,29 @@ Pour cette semaine, il nous fallait conclure cette phase de conception du projet
 En effet nous avons revue le matériel nécessaire pour notre projet. On a remplacé la communication Bluetooth entre le gant et la main robotisée par du Zigbee dont il nous faut commander les deux modules. Après réflexion, la carte Arduino Nano est trop imposante pour notre gant déjà rempli de capteur, nous nous dirigeons donc vers l'utilisation d'une carte Arduino Lilypad plus petite et plus esthétique.
 
 Bien que les professeurs nous l'aient déconseillé, nous décidons de modéliser en 3D par nous-mêmes la main robotisée et plus précisement les phalanges des différents doigts afin qu'ils aient comme nous le souhaitons des tailles qui varient.
+
+		Mois de Février : Gant et Conception 3D
+
+Nous avons eu une malencontreuse aventure avec le gant commandé qui s'est avéré être de mauvaise facture et difficilement utilisable, nous avons donc recherché un gant de meilleur qualité.
+
+Voilà qui est fait, nous nous sommes procuré un sous-gant de motard sur lequel nous allons pouvoir coudre sans risquer de le trouer. Nous nous attelons à présent à la partie couture. Les résistances flexibles doivent être accolées au gant sans pour autant empêcher les doigts de se plier puisque tout l'intérêt réside dans la mesure de la flexion. A ce sujet nous avons testé les résistances et appréhendé leurs mécanismes.
+
+Cette fois-ci nous avons relié les résistances aux servo-moteurs et cela semble bien fonctionner à un détail près... Les servo-moteurs ne tournent que sur un axe de 180°.
+
+De son côté le conception de la main en 3D a démarré et avance à son rythme, nous songeons à percer le prototype a posteriori (après son impression) car cela sera sans doute plus facile pour réaliser le modèle.
+
+		Mois de Mars : Péripéties
+
+Finalement notre gant sera adapté à une main gauche due a une erreur d'inattention lors de la phase de couture !
+
+Nous réflechissons à comment mettre les bandes de LEDs, aux côtés des résitances, où au dessus les recouvrant, la résistance placée sur le pouce étant mal positionnée, dans tous les cas des retouches seront nécessaires.
+
+En plus de la limite de rotation fixée à 180°, un autre problème s'y est ajouté, comment faire pour que les doigts se déplient efficacement mais surtout se dépli tout court ! En effet, nous avions juste prévu la flexion des doigts et non leur retour à l'état initial... Nous songeons à utiliser des ressorts linéaires ou alors, sur conseil de M. Masson, des barres flexibles qui pourront redevenir droites grâce à leur "rigidité" à l'issue de chaque flexion.
+
+En ce qui concerne la maquette de la main en 3D, nous nous avouons vaincu... C'est trop complexe pour le moment. C'est la raison pour laquelle nous décidons d'acheter une main articulée toute faite.
+
+Pas de chances, après avoir consulté 7 magasins différents dans Nice, nous ne trouvons pas ce pourquoi nous sommes venus... Dans tous les cas, le pouce se retrouve non pas au côté des doigts mais à l'intérieur dans la paume. Si nous prenions une telle main articulée, notre main robotisée se retrouverai dans l'impossibilité d'effectuer un certain nombre de gestes courant, le pouce génant le mouvement des autres doigts. De même pour internet, aucunes de nos recherches ne nous donne des résultats satifaisants.
+
+Nous avons fini par nous décider et statuer sur le fait que nous allons prendre des plans de mains articulées sur internet que nous allons retravailler afin d'obtenir non pas un résultat optimal mais au moins confortable pour ce que nous envisageons pour notre projet.
+
+Ayant pris pas mal de retard, il est fort probable que nous n'ayons pas le temps d'accomplir les objectifs supplémentaires que nous nous étions fixés à l'origine. Ceci étant dit nous comptons tout de même faire l'élongation du bras, nous avons abordé le sujet lors de la présentation et il se trouve que M. Masson est en possession d'un bras qui s'allonge dont il n'a encore aucune utilité particulière. Cet heureux hasard va grandement nous simplifier la tâche et nous pourrons fixer notre main robotisée au bout de ce fameux objet.
