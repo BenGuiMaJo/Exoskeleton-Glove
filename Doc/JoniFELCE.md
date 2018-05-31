@@ -75,6 +75,23 @@ M.Masson nous "offre" gentillement ce qui nous servira pour l'élongation de not
 Découverture pour Mathieu et moi du soudage, notre ami Benjamin ayant déjà manipulé. Nous réalisons de jolies soudures, même si le gant en aura quelques blessures de guerre.
 Récupération du gant pour coudre les LED. Nous espérons finir le gant avant les vacances, pour cela, il nous faudrait retrouver notre Lilypad..
 
+SEMAINE 15/16 : 
+
+Couture des LED sur le gant. Réalisation des codes qui nous permettent de mettre en évidence la pliure des doigts.
+Nous récupérons notre Lilypad.
+Soudure des résistances et des fils sur notre gant.
+
+SEMAINE 17/18/19 :
+
+Plusieurs rendez-vous au FABLAB pour réaliser notre main robotique après avoir trouvé la main parfaite. Nous choisissons également une matière bien fléxible qui permettra la remise en place des doigts en leur position d'origine. Malheureusement, après 2 semaines de délais, nous récupérons notre main qui est mal réalisée, inutilisable. L'impression s'est mal déroulée à cause du matériau trop fléxible.
+
+SEMAINE 20/21 :
+
+Je commence à m'occuper du rapport du projet.
+Recherche de comment fonctionne le module ZigBee et écriture de codes.
+
+
+
 
 
 
