@@ -65,3 +65,27 @@ Pas de chances, après avoir consulté 7 magasins différents dans Nice, nous ne
 Nous avons fini par nous décider et statuer sur le fait que nous allons prendre des plans de mains articulées sur internet que nous allons retravailler afin d'obtenir non pas un résultat optimal mais au moins confortable pour ce que nous envisageons pour notre projet.
 
 Ayant pris pas mal de retard, il est fort probable que nous n'ayons pas le temps d'accomplir les objectifs supplémentaires que nous nous étions fixés à l'origine. Ceci étant dit nous comptons tout de même faire l'élongation du bras, nous avons abordé le sujet lors de la présentation et il se trouve que M. Masson est en possession d'un bras qui s'allonge dont il n'a encore aucune utilité particulière. Cet heureux hasard va grandement nous simplifier la tâche et nous pourrons fixer notre main robotisée au bout de ce fameux objet.
+
+	Mois d'Avril : Avancées sur le gant et quête de la main
+
+Les composants n'arrivent pas mais nous avons besoin de résultats ! La Lilypad, les Zigbee... Tant pis ! On s'attaque alors au gant et ses Leds. Après quelques retouches sur le gant au niveau de ses coutures pour supporter les composants nous voilà prêt. Nous nous attelons aux soudures, familières pour Benjamin, Joni  et moi sommes en terrain inconnu. De par ses compétences, Benjamin s'impose comme leader du groupe, après tout il en faut bien un. Nous sommes à présent plus efficace et la répartition des tâches est meilleure.
+
+Nous recevons les modules Zigbee mais que faire sans la Lilipad pièce maîtresse du gant. Nous nous rendons alors compte qu'elle est bien arrivée mais nous ne l'avons jamais eu en notre possession, on nous l'a subtilisée. Nous la commandons à nouveau. Pendant ce temps nous achevons les Leds, notre gant est alors bien avancé mais nous ne pouvons rien faire de plus.
+
+C'est pourquoi nous nous concentrons à présent sur la main seulement nous ne sommes pas au bout de nos surprises. Il n'est plus question de faire les difficiles nous trouvons donc plusieurs plan convenables bien que leur pouce n'ait pas la mobilité attendue. Nous prenons alors rendez-vous avec le FabLab. Nous avons néanmoins quelques réserves sur les matériaux à employer, celui que nous comptons utiliser n'est pas disponible au FabLab.
+
+	Mois de Mai : Une main maintenant !
+
+La Lilypad est enfin arrivée, nous nous chargeons de la connecter avec les autres composants et alors que Benjamin travaillait avec, elle s'enflamme... Coup dur pour le projet mais nous tenons bon. Il n'est plus question d'en commander une autre, nous faisons le "choix" de nous en passer.
+
+Parallèlemment à ce contretemps nous allons au FabLab. Nous sommes soucieux de la bonne réalisation de notre main mais on nous l'assure, le substitut utilisé par le FabLab fonctionne de la même manière que le matériau flexible dont nous avont besoin. Fatalité le FabLab est très pris sur les jours qui viennent (mais aussi et surtout il fait le pont) donc notre main doit arriver deux semaines plus tard... Une fois le temps écoulé, nous apprenons que l'impression de la main n'a "pas marché" ! Et après avoir demandé pour une deuxième tentative, elle aussi s'avère être un échec. Nous qui nous inquiétions d'avoir un matériau manquant de souplesse, c'est tout le contraire, notre main n'est même pas capable de tenir droite, on dirait un chewing-gum. Nous gardons espoir et optons pour différents plans qui ne font pas intervenir ce matériau incertain.
+
+Après être revenu à la carte Arduino basique nous réalisons les branchements nécessaires et le gant est enfin opérationnel. Le code ayant été obtenu et retravaillé en amont. Nous nous rapprochons pour la première fois depuis un certain temps de la réussite. En ce qui concerne la main, l'impression est un succès, quel soulagement ! Après une course contre la montre, la main est, elle aussi opérationnelle. Nous crions victoire !
+
+	Séance du 1er Juin : Conclusion
+
+Aujourd'hui c'est la présentation finale, le rendu du matériel et les adieux. Bref le projet touche à sa fin.
+
+Au regard de notre projet qui nous aura tenu en haleine durant ces 6 derniers mois, nous sommes à la fois satisfait et frustré. Satisfait car nous avons accompli nos objectifs principaux mais aussi frustré de ne pas avoir pu en faire plus, il reste tant de choses à améliorer sans mêmes parler de toutes les fonctionnalités que nous comptions implémenter. Au moins nous aurons appris ce qu'est le traville de groupe sur un projet tel que ceux auxquels nous aurons affaire dans notre future vie professionnelle. Ainsi tout ne se passe pas toujours comme prévu et il faut agir en conséquence. A l'avenir nous devrons aussi tenir un budget et potentiellement gérer une équipe en plus de devoir respecter des deadlines.
+
+Ce projet m'a donc apporté, autant qu'il apportera à mon CV, c'est une preuve que j'en suis capable, un début de compétence, car oui on en apprend beaucoup, mais avant tout, il m'aura motivé à travailler sur des propositions innovantes et, pourquoi pas, tout simplement en être à l'origine...
