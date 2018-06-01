@@ -43,21 +43,21 @@
   Absent
 
 ### Semaine 03 :
-  Groupe:
+  #### Groupe:
     Préparation de la diapo, réflexion sur le diagramme de Kant
     Prise d’initiative de la modélisation 3d de la main robotique pour la fabriqué au Fablab
     Répartition du travail durant la semaine de ski.
-  Perso :
+  #### Perso :
     Commencement de la partie Inventor pour avoir une mai opérationnelle pour mi-Mars
 
 ### Semaine 04 :
-  Groupe:
+  #### Groupe:
     Reception des commande (servomoteur/resistance flexible)
     Création de notre premier montage et utilisation des composant:
       Dance cette séance, nous avons fais fonctionner un servo moteur en fonction du rayon de courbure de la led
       puis prevision de la séance de couture pour les resistance sur la main
       et enfin choix des composant complémentaire (resistance de 20k pour comparé la resistance modulable)
-  Perso:
+  #### Perso:
     Conceptualisation de la main en 3D, et affinage de presition
     Note importante : le redressement des doight est prevu mais le choix sera fais en groupe et par le groupe
 
