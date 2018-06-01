@@ -1,4 +1,4 @@
-Projet : Exosquelette commandé à distance
+# Projet : Exosquelette commandé à distance
 
 Groupe :
   - CARBALLO  Benjamin
