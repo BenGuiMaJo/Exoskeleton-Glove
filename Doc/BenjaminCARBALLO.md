@@ -137,3 +137,4 @@
     
 # Conclusion
 
+Même si ce projet m'a apporté connaissance et expérience, technique, il m'as laissé le gout de la déception. En effet, a cause de petits problêmes, nous n'avons rien pu faire durant 1 ou 2 semaines, soit en attendant la main soit en attendant des composants, et en accumulant des retarde notre projet "imbitieu" n'a pas porté ces fruits. Cette frusation est pour moi une source encore plus importante d'expérience que la simple econnaissance technique que peux apporter ces heures d'enseignements. Prendre en charge les Imprévus dés le commencement d'un projet sont des tâches courantes pour des Ingénieur. c'est alors a nous de gagner en maturité afin de  pouvoir maitrisé à tout moment le temps (et plus tard les finance).
