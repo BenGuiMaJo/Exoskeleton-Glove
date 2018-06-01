@@ -34,6 +34,7 @@ Les tâches :
     o	Modélisation 3D
   -	(et autre)
 
+# rendu par Semaine groupe/Perso
 
 Semaine 51 : 
   Initialisation du projet, collectivement et point ne soulever à faire murir
@@ -83,6 +84,7 @@ Semaine 11 :
     Reunion de Groupe dans le centre de Nice, à la recherche d'une main articulé
     Aprés la visite de 7 Magasin, nous avonsréalisé que les main sur la plus part du marché ne convienne pas faute de
     mobilité sur le pouce rendant le repliement des doights (notament L'index) incomplet.
+    
 Semaine 12 :
   Groupe: 
     Preparation et finission de la diapo et recherche de main sur internet (boutique en ligne) sans succés
@@ -101,6 +103,34 @@ Semaine 13 :
     Apres reception des Bande LED, j'ai essayé de les découper pour enfin les souder mais sans succes dans cette derriere
     étape (voir M. Masson)
 
-###Semaine 14 :
+Semaine 14 :
+  Groupe : 
+    Nous avons recptionné le gant enfin cousu et donc nous nous sommes attelé à commprend comment fonctionne les LED. le premier             probleme que nous avons rencontré et la recupération des PIN: VCC, GND et deu controleur. pour ce faire nous avons decoupé, soudé       etbranché avfec quelque succés
+  Perso :
+    Finalement, j'ai enfin trouvé comment branché les LED et premier essaie de soudure propre.
+    
+ Semaine 15,16 :
+    Groupe : 
+      liste des derniere composant, recherche active de plan sur internet deja fait et donc constituant un nouveau planning au sujet du       cas "la main articulé".Quand les LED furent soudé, il étais enfin temps de les coudure sur notre gant a coté des résistance             flexible
+    Perso :
+      Réalisation des soudure et réalisation des problême : un manque de place, une des led reste toujours allumé et difficulté de faire       tenir une soudure au cause de la colle tout autour.
 
-  
+ Semaine 17 :
+ 
+ Semaine 18,19 :
+    Groupe : 
+      Rendez-vous au FABLAB du site de Nice-Sophia, avec le plan d'une main flexible. C'est a dire quelle répond au problême du retour          des doight (car le matiériaux et deformable) et a une certain esthétisme en visiualisation 3D tres propre. Cependant a cause            d'erreur d'impretion nous avons perdu beaucoup de temps et ne pouvant avancé sans main le projet stagne.
+      
+ Semaine 20,21 :     
+    Groupe :
+        Apres avoir enfin eu une main (certe dure et non flexible), nous commençons a assemblé la main et rajoutant de nouveaux                 matériel, comme des fils ressorts en nilons qui servirons le retour des doight de leur positions d'origines. Nous cherchons             aussi un plaque d'une hauteur de 1.5cm afin la découpé et de postion les fameux servo-moteurs, les empéchant de bougé lors de la         tension des câbles.
+     Perso :
+        Commence à comprendre comment marche le module Xbee et la bibliothéqué associé. Le premier problême qui se pose, étant la               definition des PIN Output et Input, faute de documentations pertinate sur le sujet. Une second problême advient lors de                 l'aparition d'un conflit entre les deux bibliothèques "Servo" et "SoftwareSerial".
+        
+   Semaine 22 :
+      Groupe :
+          Groupement des parties individuelle de chacun et réalisation d'un rendu (diapo + raport).
+      
+ #  Conclusion personnelle
+ 
+ Meme si cette expérience fut constructive et riche en expérience pour moi, il me reste une grosse quant à la finalisation du projet (Bonus + lien Gant/Main). Oui, cette expérience ma poussé dans mes retranchements. Ce projet ma fait comprendre une chose que j'ai pas du tout pris en compte auparavant : Les imprévu et le manque d'organisation. Subire une semainde pouvoir travaillé car il nous manque un composant ou parceque le composant que nous avons commandé n'arrive pas (Lilypad) ou pire qu'il ne fonctionne pas, nous fait décale tout  notre planing rende la gestion du temps et des objectifs Hebdomadaires TROP complexe. Si je dois murire sur un point dans ma future vie d'ingénieur (ou d'abord d'étudiant en Elec3), c'est celui la.
