@@ -36,7 +36,7 @@
 
 # Compte rendu Hebdomadaire des réalisations Groupe et Personnelle
 
-## Semaine 51 : 
+## Semaine 51,01 : 
   Initialisation du projet, collectivement et point ne soulever à faire murir
 
 ## Semaine 02 :
