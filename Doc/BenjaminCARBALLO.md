@@ -44,6 +44,7 @@ Semaine 02 :
 
 Semaine 03 :
   Groupe:
+  
     Préparation de la diapo, réflexion sur le diagramme de Kant
     Prise d’initiative de la modélisation 3d de la main robotique pour la fabriqué au Fablab
     Répartition du travail durant la semaine de ski.
