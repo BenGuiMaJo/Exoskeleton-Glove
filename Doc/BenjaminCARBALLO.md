@@ -36,10 +36,12 @@ Les tâches :
 
 # rendu par Semaine groupe/Perso
 
-Semaine 51 : 
+####Semaine 51 : 
+
   Initialisation du projet, collectivement et point ne soulever à faire murir
 
 Semaine 02 :
+
   Absent
 
 Semaine 03 :
