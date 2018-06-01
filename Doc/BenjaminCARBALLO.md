@@ -36,15 +36,15 @@ Les tâches :
 
 # rendu par Semaine groupe/Perso
 
-####Semaine 51 : 
+#### Semaine 51 : 
 
   Initialisation du projet, collectivement et point ne soulever à faire murir
 
-Semaine 02 :
+#### Semaine 02 :
 
   Absent
 
-Semaine 03 :
+#### Semaine 03 :
 
   Groupe :
   
@@ -56,7 +56,7 @@ Semaine 03 :
   
   Commencement de la partie Inventor pour avoir une mai opérationnelle pour mi-Mars
 
-Semaine 04 :
+#### Semaine 04 :
 
   Groupe :
   
@@ -70,7 +70,7 @@ Semaine 04 :
   Conceptualisation de la main en 3D, et affinage de presition
     Note importante : le redressement des doight est prevu mais le choix sera fais en groupe et par le groupe
 
-Semaine 05,06,07,08 :
+#### Semaine 05,06,07,08 :
 
   Perso :
   
@@ -80,7 +80,7 @@ Semaine 05,06,07,08 :
     Important point soulever: Redressement des doights, Systeme de poussé de la main, et matériel qui est important de 
     commander comme une source lumineuse variant selon la flexion des resistance sur le gant
 
-Semaine 09 :
+#### Semaine 09 :
 
    Groupe:
    
@@ -88,13 +88,13 @@ Semaine 09 :
      Le Groupe de Maxime Surcin,n ous a présenté les Led qui utilisé pour sont projet d'Horloge avec effet de profondeur
      Nous avons décidé alors d'utiliser les même leb mais plus rapproché. (suite des commades)
 
-Semaine 10 :
+#### Semaine 10 :
 
    Perso:
    
    Continuation des recherche sur led et écriture de premier code
 
-Semaine 11 :
+#### Semaine 11 :
 
   Groupe: 
   
@@ -102,7 +102,7 @@ Semaine 11 :
     Aprés la visite de 7 Magasin, nous avonsréalisé que les main sur la plus part du marché ne convienne pas faute de
     mobilité sur le pouce rendant le repliement des doights (notament L'index) incomplet.
     
-Semaine 12 :
+#### Semaine 12 :
 
   Groupe:
   
@@ -114,7 +114,7 @@ Semaine 12 :
     le marché. Réflexion sur l'intégration du Verrain donner pour notre projet et étude du Controleur de moteur présenter 
     par un autre groupe Benjamin Vouillon et Léo Lasseron.
 
-Semaine 13 :
+#### Semaine 13 :
 
   Groupe : 
   
@@ -128,7 +128,7 @@ Semaine 13 :
    Apres reception des Bande LED, j'ai essayé de les découper pour enfin les souder mais sans succes dans cette derriere
     étape (voir M. Masson)
 
-Semaine 14 :
+#### Semaine 14 :
 
   Groupe : 
   
@@ -138,7 +138,7 @@ Semaine 14 :
   
    Finalement, j'ai enfin trouvé comment branché les LED et premier essaie de soudure propre.
     
- Semaine 15,16 :
+ #### Semaine 15,16 :
 
    Groupe : 
    
@@ -148,7 +148,7 @@ Semaine 14 :
    
    Réalisation des soudure et réalisation des problême : un manque de place, une des led reste toujours allumé et difficulté de faire       tenir une soudure au cause de la colle tout autour.
 
- Semaine 17 :
+ #### Semaine 17 :
  
  Semaine 18,19 :
  
@@ -156,7 +156,7 @@ Semaine 14 :
    
    Rendez-vous au FABLAB du site de Nice-Sophia, avec le plan d'une main flexible. C'est a dire quelle répond au problême du retour         des doight (car le matiériaux et deformable) et a une certain esthétisme en visiualisation 3D tres propre. Cependant a cause             d'erreur d'impretion nous avons perdu beaucoup de temps et ne pouvant avancé sans main le projet stagne.
       
- Semaine 20,21 :
+ #### Semaine 20,21 :
  
    Groupe :
    
@@ -166,7 +166,7 @@ Semaine 14 :
    
   Commence à comprendre comment marche le module Xbee et la bibliothéqué associé. Le premier problême qui se pose, étant la               definition des PIN Output et Input, faute de documentations pertinate sur le sujet. Une second problême advient lors de                 l'aparition d'un conflit entre les deux bibliothèques "Servo" et "SoftwareSerial".
         
-   Semaine 22 :
+ #### Semaine 22 :
    
    Groupe :
       
