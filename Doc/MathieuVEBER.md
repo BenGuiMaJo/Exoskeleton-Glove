@@ -1,6 +1,6 @@
 
 
-					Résumé hebdomadaire de l'avancement de notre projet
+						Notre projet pas à pas, un résumé détaillé
 
 
 		Séance du 22 Décembre : Introduction
