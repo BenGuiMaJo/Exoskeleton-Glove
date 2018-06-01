@@ -111,7 +111,7 @@
 
 ## Semaine 15/16 :
    ### Groupe : 
-     Envoie des led en couture et comande d'une surface assez molle de 1.5cm de haut afin d'y enfoncer les servo-moteur de l'avant bras
+   Envoie des led en couture et comande d'une surface assez molle de 1.5cm de haut afin d'y enfoncer les servo-moteur de l'avant bras
    ### Perso : 
    Couture des LED sur le gant. Réalisation des codes qui nous permettent de mettre en évidence la pliure des doigts. Nous récupérons        notre Lilypad. Soudure des résistances et des fils sur notre gant.
 
