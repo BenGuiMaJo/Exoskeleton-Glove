@@ -13,14 +13,14 @@ Most of the information is available in our report named "Exoskeleton Glove Rapp
 
 	The Fail
 
-!(https://github.com/BenGuiMaJo/Exoskeleton-Glove/blob/master/Documentation/Pictures%20and%20Movies/Main%20Echec%20Impression.jpg)
+![](https://github.com/BenGuiMaJo/Exoskeleton-Glove/blob/master/Documentation/Pictures%20and%20Movies/Main%20Echec%20Impression.jpg)
 
 	The Glove
 
-!(https://github.com/BenGuiMaJo/Exoskeleton-Glove/blob/master/Documentation/Pictures%20and%20Movies/Gant%20Connect%C3%A9.jpg)
+![](https://github.com/BenGuiMaJo/Exoskeleton-Glove/blob/master/Documentation/Pictures%20and%20Movies/Gant%20Connect%C3%A9.jpg)
 
 	The Robotic Hand
 
-![Something](https://github.com/BenGuiMaJo/Exoskeleton-Glove/blob/master/Documentation/Pictures%20and%20Movies/Main%20Articul%C3%A9e.jpg)
+![](https://github.com/BenGuiMaJo/Exoskeleton-Glove/blob/master/Documentation/Pictures%20and%20Movies/Main%20Articul%C3%A9e.jpg)
 
 ### Enjoy!
