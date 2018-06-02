@@ -13,7 +13,7 @@
   C’est alors qu’après discussion nous avons finalement opté pour le dernier projet, plus riche en travail et en applications dans plusieurs domaines (industrie, pharmaceutique, etc…)
 
 ### Démarche : 
-  Réalisation de premier schéma sur brouillon 
+  Réalisation de premiers schémas sur brouillon 
   Création d’une première liste de matériel nécessaire à la réalisation du projet :
     -	Une dizaine d’accéléromètres
     -	Une dizaine de servo-moteurs (5 petits, 4 moyens, 1 imposant)
@@ -30,107 +30,108 @@
   -	Code :
     o	Détection des angles et calibrage
     o	Réception/analyse/envoi
-    o	Mouvement des servo-moteurs
+    o	Mouvements des servo-moteurs
     o	Modélisation 3D
-  -	(et autre)
+  -	(et autres)
 
 # Compte rendu Hebdomadaire des réalisations Groupe et Personnelle
 
 ## Semaine 51,01 : 
-  Initialisation du projet, collectivement et point ne soulever à faire murir
+  Initialisation du projet collectivement et points soulevés à faire murir
 
 ## Semaine 02 :
   Absent
 
 ## Semaine 03 :
   ### Groupe:
-   Préparation de la diapo, réflexion sur le diagramme de Kant
-    Prise d’initiative de la modélisation 3d de la main robotique pour la fabriqué au Fablab
+   Préparation de la diapo, réflexion sur le diagramme de Gantt
+    Prise d’initiative de la modélisation 3d de la main robotique pour la fabriquer au Fablab
     Répartition du travail durant la semaine de ski.
   ### Perso :
-   Commencement de la partie Inventor pour avoir une mai opérationnelle pour mi-Mars
+   Commencement de la partie Inventor pour avoir une main opérationnelle pour mi-Mars
 
 ## Semaine 04 :
   ### Groupe:
-   Reception des commande (servomoteur/resistance flexible)
+   Réception des commandes (servomoteurs/résistances flexibles)
     Création de notre premier montage et utilisation des composant:
-      Dance cette séance, nous avons fais fonctionner un servo moteur en fonction du rayon de courbure de la led
-      puis prevision de la séance de couture pour les resistance sur la main
-      et enfin choix des composant complémentaire (resistance de 20k pour comparé la resistance modulable)
+      Dans cette séance, nous avons fait fonctionner un servo moteur en fonction du rayon de courbure de la led
+      puis prévision de la séance de couture pour les résistances sur la main
+      et enfin choix des composants complémentaires (résistance de 20k pour comparer la résistance modulable)
   ### Perso:
-   Conceptualisation de la main en 3D, et affinage de presition
-    Note importante : le redressement des doight est prevu mais le choix sera fais en groupe et par le groupe
+   Conceptualisation de la main en 3D, et affinage de précision
+    Note importante : le redressement des doigts est prévu mais le choix sera fait en groupe et par le groupe
 
 ## Semaine 05,06,07,08 :
   ### Perso :
-   Abandon de la réalisationde la main 3D faute de savoir faire et de technique
-    finission des couture du gant et des resitance Flexible
-    Pärtage avec le groupe des gros probleme suite a la realisation de la maquette 3D
-    Important point soulever: Redressement des doights, Systeme de poussé de la main, et matériel qui est important de 
-    commander comme une source lumineuse variant selon la flexion des resistance sur le gant
+   Abandon de la réalisation de la main 3D faute de savoir faire et de technique
+    Finitions des couture du gant et des résistances flexibles
+    Partage avec le groupe des gros problèmes suite à la réalisation de la maquette 3D
+    Important point soulevé: Redressement des doigts, Système de poussée de la main, et matériel qui est important de 
+    commander comme une source lumineuse variant selon la flexion des résistances sur le gant
 
 ## Semaine 09 :
    ### Groupe:
-   Nous avons cherché comment instalé de la lumière qui varie en fonction des mouvement des doights
-     Le Groupe de Maxime Surcin,n ous a présenté les Led qui utilisé pour sont projet d'Horloge avec effet de profondeur
-     Nous avons décidé alors d'utiliser les même leb mais plus rapproché. (suite des commades)
+   Nous avons cherché comment installer de la lumière qui varie en fonction des mouvements des doigts
+     Maxime Surcin nous a présenté les Leds qu'il a utilisé pour son projet d'Horloge avec effet de profondeur
+     Nous avons décidé alors d'utiliser les mêmes leds mais plus rapprochées. (suite des commandes)
 
 ## Semaine 10 :
    ### Perso:
-   Continuation des recherche sur led et écriture de premier code
+   Poursuite des recherches sur leds et écriture de premiers codes
 
 ## Semaine 11 :
   ### Groupe: 
-   Reunion de Groupe dans le centre de Nice, à la recherche d'une main articulé
-    Aprés la visite de 7 Magasin, nous avonsréalisé que les main sur la plus part du marché ne convienne pas faute de
-    mobilité sur le pouce rendant le repliement des doights (notament L'index) incomplet.
+   Réunion de Groupe dans le centre de Nice, à la recherche d'une main articulée
+    Après la visite de 7 Magasins, nous avons réalisé que les mains sur la plupart du marché ne conviennent pas faute de
+    mobilité sur le pouce rendant le repliement des doigts (notamment l'index) incomplet.
     
 ## Semaine 12 :
   ### Groupe: 
-   Preparation et finission de la diapo et recherche de main sur internet (boutique en ligne) sans succés
+   Préparation et finitions de la diapo et recherche de main sur internet (boutique en ligne) sans succès
   ### Perso:
-   Recherche de de plan sur internet et dessin schématique de main sur papier pour des plan idéale au vue des mains sur
-    le marché. Réflexion sur l'intégration du Verrain donner pour notre projet et étude du Controleur de moteur présenter 
-    par un autre groupe Benjamin Vouillon et Léo Lasseron.
+   Recherche de plan sur internet et dessin schématique de main sur papier pour des plans idéaux à la vue des mains sur
+    le marché. Réflexion sur l'intégration du Verrin donné pour notre projet et étude du Controleur de moteur présenté 
+    par un autre groupe, Benjamin Vouillon et Léo Lasseron.
 
 ## Semaine 13 :
   ### Groupe : 
-   Nous somme aller ensemble au Fablab afin de voir avec le responsable du site ce qu'il pouvez nous conseillez aprés
-    notre tentative de recherche de main sur le marché. Il nous a présenter une main imprimé par deux de nos camardes et
-    on as decider de reprendre un plan sur internet et d'essayer de le modifier dans le but d'obtenir un resultat qui nous
-    interesse
+   Nous somme allés ensemble au Fablab afin de voir avec le responsable du site ce qu'il pouvait nous conseiller après
+    notre tentative de recherche de main sur le marché. Il nous a présenté une main imprimée par deux de nos camarades et
+    on a décidé de reprendre un plan sur internet et d'essayer de le modifier dans le but d'obtenir un résultat qui nous
+    intéresse
   ### Perso :
-   Apres reception des Bande LED, j'ai essayé de les découper pour enfin les souder mais sans succes dans cette derriere
+   Après réception des Bandes LED, j'ai essayé de les découper pour enfin les souder mais sans succès dans cette dernière
     étape (voir M. Masson)
 
 ## Semaine 14 :
  ### Groupe :
-   Recher de plan d'une main 3D sur Internet, puis commencement des soudure des LED et de leur décortication pour commprendre comment        elle marche et par ou ou peux trouvé les pins VCC, GND, et controle.
+   Recherche de plan d'une main 3D sur Internet, puis commencement des soudures des LEDs et de leur décortication pour
+   commprendre comment elles marchent et par où on peut trouver les pins VCC, GND, et control.
  ### Perso :
-   commencement et finisions des découpage et préparation des future soudure sur les led
+   commencement et finitions des découpages et préparation des futures soudures sur les leds
 
 ## Semaine 15/16 :
    ### Groupe : 
-   Envoie des led en couture et comande d'une surface assez molle de 1.5cm de haut afin d'y enfoncer les servo-moteur de l'avant bras
+   Envoie des leds en couture et commande d'une surface assez molle de 1.5cm de haut afin d'y enfoncer les servo-moteur de l'avant bras
    ### Perso : 
-   Couture des LED sur le gant. Réalisation des codes qui nous permettent de mettre en évidence la pliure des doigts. Nous récupérons        notre Lilypad. Soudure des résistances et des fils sur notre gant.
+   Couture des LEDs sur le gant. Réalisation des codes qui nous permettent de mettre en évidence la pliure des doigts. Nous récupérons        notre Lilypad. Soudure des résistances et des fils sur notre gant.
 
 ## Semaine 17 :
 
 
 ## Semaine 18,19 :
   ### Groupe :
-   Premiere tentative d'impression 3d qui se conclua par un echec a cause du matériaux choisie (NinjaFlex).
-    Recupération d'une autre main cette fois en rigide.
-    commande de fils élastique. pour remplacer la capacité élastique de matériaux flexible de la premiere impression.
+   Première tentative d'impression 3d qui se conclua par un échec à cause du matériau choisi (NinjaFlex).
+    Récupération d'une autre main cette fois en rigide.
+    commande de fils élastique. pour remplacer la capacité élastique de matériaux flexible de la première impression.
   ### Perso : 
-   Decouvert des premier Problemes du a Xbee, comme : la compression des pin Input et Output ou encore la mise en conflit des bibliothèque "Servo" et "SoftwareSerial"
+   Découverte des premiers Problèmes dû à Xbee, comme : la compression des pins Input et Output ou encore la mise en conflit des bibliothèques "Servo" et "SoftwareSerial"
     
 ## Semaine 20,21 :
   ### Groupe :
-   Realisation de l'avant bras: création des enplacemnt des servo moteur, assemblage de la main et juxtaposition des élément de            comunication (la même chose pour le gant)
+   Réalisation de l'avant bras: création des emplacements des servo-moteurs, assemblage de la main et juxtaposition des éléments de            communication (la même chose pour le gant)
   ### Perso : 
-   codage des dernier programmes afin de présente quelque chose malgré mon incapacité a relié les deux mdule par xbee
+   codage des derniers programmes afin de présenter quelque chose malgré mon incapacité à relier les deux module par xbee
 
 ## Semaine 22 :
   ### Groupe:
@@ -138,4 +139,4 @@
     
 # Conclusion
 
-Même si ce projet m'a apporté connaissance et expérience, technique, il m'as laissé le gout de la déception. En effet, a cause de petits problêmes, nous n'avons rien pu faire durant 1 ou 2 semaines, soit en attendant la main soit en attendant des composants, et en accumulant des retarde notre projet "imbitieu" n'a pas porté ces fruits. Cette frusation est pour moi une source encore plus importante d'expérience que la simple econnaissance technique que peux apporter ces heures d'enseignements. Prendre en charge les Imprévus dés le commencement d'un projet sont des tâches courantes pour des Ingénieur. c'est alors a nous de gagner en maturité afin de  pouvoir maitrisé à tout moment le temps (et plus tard les finance).
+Même si ce projet m'a apporté connaissance et expérience, technique, il m'a laissé le goût de la déception. En effet, à cause de petits problèmes, nous n'avons rien pu faire durant 1 ou 2 semaines, soit en attendant la main soit en attendant des composants, et en accumulant du retard notre projet "ambitieux" n'a pas porté ses fruits. Cette frustration est pour moi une source encore plus importante d'expérience que la simple connaissance technique que peut apporter ces heures d'enseignements. Prendre en charge les Imprévus dès le commencement d'un projet sont des tâches courantes pour des Ingénieurs. c'est alors à nous de gagner en maturité afin de pouvoir maitriser à tout moment le temps (et plus tard les finances).
