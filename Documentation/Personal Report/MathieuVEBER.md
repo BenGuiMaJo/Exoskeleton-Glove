@@ -1,9 +1,6 @@
+# Notre projet pas à pas, un résumé détaillé
 
-
-						Notre projet pas à pas, un résumé détaillé
-
-
-		Séance du 22 Décembre : Introduction
+### Séance du 22 Décembre : Introduction
 
 Notre groupe est constitué de Benjamin CARBALLO, Guillaume MALEK, Joni FELCE et moi-même (Mathieu VEBER).
 Après avoir hésité entre trois projets que sont une boule de billard connectée, une harpe laser et un gant exosquelette, nous avons convergé vers la dernière proposition.
@@ -17,7 +14,7 @@ Nous avons par ailleurs fait une grossière découpe des tâches qui est la suiv
 
 Nous avons aussi réfléchi au matériel nécessaire pour notre projet, il nous faudra donc un gant de motard, une protection d'avant-bras, une dizaine d'accéléromètres et autant de servomoteurs.
 
-		Séance du 12 Janvier : Commande du Matériel
+### Séance du 12 Janvier : Commande du Matériel
 
 Edit : Guillaume MALEK à quitté le groupe pour suivre son propre projet
 
@@ -25,14 +22,14 @@ Lors de la séance, notre professeur nous a conseillé d'utiliser des résistanc
 
 Nous avons réfléchis plus précisément au matériel nécessaire. Après concertation entre nous, nous avons réalisé que le gant "de motard" ne serait pas pratique à utiliser, c'est pourquoi nous avons commandé des sous-gants qui restent agréables à mettre tout en nous laissant la possibilité de coudre dessus (pour attacher les résistances souples par exemple). De plus, nous avons commandé ces fameux capteurs de flexion au nombre de 5 ainsi que 6 servomoteurs (un pour chaque doigt et le dernier pour faire bouger le pouce).
 
-		Séance du 18 Janvier : Approfondissement
+### Séance du 18 Janvier : Approfondissement
 
 Pour cette séance, nous nous sommes attardés sur le fonctionnement des doigts et la conception de phalanges.
 Nous avons opté pour l'utilisation de fils pour replier les doigts de la main robotique. D'autre part nous feront le choix, pour être le plus réaliste possible, de reproduire les trois phalanges du doigt qui seront de tailles différentes suivant le doigt (si possible) et nous avons statué sur la forme qu'elles devaient avoir pour laisser passer le fil et pour pouvoir se plier.
 
 Nous avons aussi eu l'idée de rajouter en parallèle des résistances flexibles, des bandes de LEDs qui changeront de couleur (vert puis jaune puis rouge) en fonction du repli de nos doigts. Cela nous permettra d'avoir un retour (pour savoir si l'on interprète bien les informations) et ajoutera aussi un aspect esthétique à notre gant.
 
-		Séance du 23 Janvier : Présentation du Projet
+### Séance du 23 Janvier : Présentation du Projet
 
 Pour cette semaine, il nous fallait conclure cette phase de conception du projet. Nous avons alors établi un diagramme de Gant pour y voir plus clair dans notre agenda. Ainsi à la prochaine séance nous nous occuperons du gant et de ses capteurs (à conditions que nous ayons le matériel !)
 
@@ -40,7 +37,7 @@ En effet nous avons revue le matériel nécessaire pour notre projet. On a rempl
 
 Bien que les professeurs nous l'aient déconseillé, nous décidons de modéliser en 3D par nous-mêmes la main robotisée et plus précisement les phalanges des différents doigts afin qu'ils aient comme nous le souhaitons des tailles qui varient.
 
-		Mois de Février : Gant et Conception 3D
+### Mois de Février : Gant et Conception 3D
 
 Nous avons eu une malencontreuse aventure avec le gant commandé qui s'est avéré être de mauvaise facture et difficilement utilisable, nous avons donc recherché un gant de meilleur qualité.
 
@@ -50,7 +47,7 @@ Cette fois-ci nous avons relié les résistances aux servo-moteurs et cela sembl
 
 De son côté le conception de la main en 3D a démarré et avance à son rythme, nous songeons à percer le prototype a posteriori (après son impression) car cela sera sans doute plus facile pour réaliser le modèle.
 
-		Mois de Mars : Péripéties
+### Mois de Mars : Péripéties
 
 Finalement notre gant sera adapté à une main gauche due a une erreur d'inattention lors de la phase de couture !
 
@@ -66,7 +63,7 @@ Nous avons fini par nous décider et statuer sur le fait que nous allons prendre
 
 Ayant pris pas mal de retard, il est fort probable que nous n'ayons pas le temps d'accomplir les objectifs supplémentaires que nous nous étions fixés à l'origine. Ceci étant dit nous comptons tout de même faire l'élongation du bras, nous avons abordé le sujet lors de la présentation et il se trouve que M. Masson est en possession d'un bras qui s'allonge dont il n'a encore aucune utilité particulière. Cet heureux hasard va grandement nous simplifier la tâche et nous pourrons fixer notre main robotisée au bout de ce fameux objet.
 
-	Mois d'Avril : Avancées sur le gant et quête de la main
+### Mois d'Avril : Avancées sur le gant et quête de la main
 
 Les composants n'arrivent pas mais nous avons besoin de résultats ! La Lilypad, les Zigbee... Tant pis ! On s'attaque alors au gant et ses Leds. Après quelques retouches sur le gant au niveau de ses coutures pour supporter les composants nous voilà prêt. Nous nous attelons aux soudures, familières pour Benjamin, Joni  et moi sommes en terrain inconnu. De par ses compétences, Benjamin s'impose comme leader du groupe, après tout il en faut bien un. Nous sommes à présent plus efficace et la répartition des tâches est meilleure.
 
@@ -74,7 +71,7 @@ Nous recevons les modules Zigbee mais que faire sans la Lilipad pièce maîtress
 
 C'est pourquoi nous nous concentrons à présent sur la main seulement nous ne sommes pas au bout de nos surprises. Il n'est plus question de faire les difficiles nous trouvons donc plusieurs plans convenables bien que leur pouce n'ait pas la mobilité attendue. Nous prenons alors rendez-vous avec le FabLab. Nous avons néanmoins quelques réserves sur les matériaux à employer, celui que nous comptons utiliser n'est pas disponible au FabLab.
 
-	Mois de Mai : Une main maintenant !
+### Mois de Mai : Une main maintenant !
 
 La Lilypad est enfin arrivée, nous nous chargeons de la connecter avec les autres composants et alors que Benjamin travaillait avec, elle s'enflamme... Coup dur pour le projet mais nous tenons bon. Il n'est plus question d'en commander une autre, nous faisons le "choix" de nous en passer.
 
@@ -82,7 +79,7 @@ Parallèlemment à ce contretemps nous allons au FabLab. Nous sommes soucieux de
 
 Après être revenu à la carte Arduino basique nous réalisons les branchements nécessaires et le gant est enfin opérationnel. Nous nous rapprochons pour la première fois depuis un certain temps de la réussite. En ce qui concerne la main, l'impression est un succès, quel soulagement ! Après une course contre la montre, la main est, elle aussi opérationnelle. Nous crions victoire... un peu trop tôt ! Nous n'arriverons pas à effectuer la connexion sans fil entre les deux à temps.
 
-	Séance du 1er Juin : Conclusion
+### Séance du 1er Juin : Conclusion
 
 Aujourd'hui c'est la présentation finale, le rendu du matériel et les adieux. Bref le projet touche à sa fin.
 
