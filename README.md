@@ -12,15 +12,15 @@ Most of the information is available in our report named "Exoskeleton Glove Rapp
 
 ### Here are some pictures of our project:
 
-#### The Fail
+	The Fail
 
 ![](https://github.com/BenGuiMaJo/Exoskeleton-Glove/blob/master/Documentation/Pictures%20and%20Movies/Main%20Echec%20Impression.jpg)
 
-##### The Glove
+	The Glove
 
 ![](https://github.com/BenGuiMaJo/Exoskeleton-Glove/blob/master/Documentation/Pictures%20and%20Movies/Gant%20Connect%C3%A9.jpg)
 
-###### The Robotic Hand
+	The Robotic Hand
 
 ![](https://github.com/BenGuiMaJo/Exoskeleton-Glove/blob/master/Documentation/Pictures%20and%20Movies/Main%20Articul%C3%A9e.jpg)
 
